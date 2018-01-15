@@ -14,7 +14,7 @@
              alt="Airbnb">
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/60%25%20of%20the%20time-works%20every%20time-blue.svg" alt="Quality">
+  <img style="width: 500px" src="https://img.shields.io/badge/60%25%20of%20the%20time-works%20every%20time-blue.svg" alt="Quality">
 </div>
 
 # Description
@@ -30,7 +30,7 @@ am appear as a teacher.
 ## Native JS Games
 
 * [Defence the Planet](./Defence%20the%20Planet)
-* [Zombie Rush](./Zombie%20Rusher)
+* [Zombie Rush](./Zombie%20Rush)
 
 ## React JS Games
 
