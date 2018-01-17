@@ -234,17 +234,17 @@ export class Reacteroids extends Component {
       message = this.state.currentScore + ' points though.';
     }
 
-    if(!this.state.inGame){
+    if (!this.state.inGame){
       endgame = (
         <div className="endgame">
           <p>Game over, man!</p>
           <p>{message}</p>
           <button
-            onClick={ this.startGame.bind(this) }>
+            onClick={this.startGame.bind(this)}>
             try again?
           </button>
         </div>
-      )
+      );
     }
 
     return (

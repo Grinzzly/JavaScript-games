@@ -1,7 +1,6 @@
 # Defence the Planet
-A implementation of the classic Asteroids game using only vanillaJS and Canvas
 
-## Demo
+A implementation of the classic Asteroids game using only vanillaJS and Canvas
 
 ## Install
 
@@ -9,9 +8,10 @@ A implementation of the classic Asteroids game using only vanillaJS and Canvas
 open index.html file
 ```
 
+## Demo
+
 ## Technology in use
 * VanillaJS
 * Canvas
 
-### [Go Back](../)
-
+### [Go Back](https://github.com/Grinzzly/JavaScript-games)

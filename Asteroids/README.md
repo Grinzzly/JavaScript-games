@@ -1,7 +1,8 @@
 # Asteroids
+
 A implementation of the classic Asteroids game using React and Canvas in es6
 
-##Demo
+## Demo
 
 ## Install
 
@@ -15,4 +16,4 @@ open http://localhost:3000
 * ReactJS
 * ExpressJS
 
-### [Go Back](../)
+### [Go Back](./..)

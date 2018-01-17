@@ -6,15 +6,14 @@
   </a>
   <br>
   <br>
-  <img src="./src/GetInTheGameLogo.png" alt="JsGames">
+  <img width="500" src="./src/GetInTheGameLogo.png" alt="JsGames">
   <br>
   <br>
   <a href="https://github.com/airbnb/javascript">
-        <img src="https://img.shields.io/badge/Code%20Style-Airbnb-red.svg"
-             alt="Airbnb">
+        <img src="https://img.shields.io/badge/Code%20Style-Airbnb-red.svg" alt="Airbnb">
   </a>
   &nbsp;
-  <img style="width: 500px" src="https://img.shields.io/badge/60%25%20of%20the%20time-works%20every%20time-blue.svg" alt="Quality">
+  <img src="https://img.shields.io/badge/60%25%20of%20the%20time-works%20every%20time-blue.svg" alt="Quality">
 </div>
 
 # Description
@@ -38,15 +37,15 @@ am appear as a teacher.
 
 ## Angular JS Games
 
-* Coming 
+* Coming soon
 
 ## KiwiJS
 
-* Coming 
+* Coming soon
 
 ## MelonJS
 
-* Coming 
+* Coming soon
 
 # Style
 
