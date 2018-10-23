@@ -27,12 +27,12 @@
     "react-transform"
   ],
   "devDependencies": {
-    "babel-core": "^5.4.7",
-    "babel-eslint": "^3.1.9",
-    "babel-loader": "^5.1.2",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.0.1",
+    "babel-loader": "^8.0.4",
     "babel-plugin-react-transform": "^1.1.1",
     "css-loader": "^0.23.0",
-    "eslint": "^1.3.1",
+    "eslint": "^5.7.0",
     "eslint-plugin-react": "^2.3.0",
     "express": "^4.13.3",
     "react-transform-catch-errors": "^1.0.0",

@@ -16,7 +16,7 @@
     "vanillaJS"
   ],
   "devDependencies": {
-    "babel-core": "^6.9.1",
+    "babel-core": "^6.26.3",
     "babel-eslint": "^6.1.0",
     "babel-loader": "^6.2.4",
     "eslint": "^3.19.0",
