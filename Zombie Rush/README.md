@@ -3,8 +3,6 @@
 ## Description
 Run, eat brains, don't die.
 
-## Demo
-
 ## Installation
 
 ```
@@ -15,8 +13,7 @@ open index.html
 
 ## Technologies:
 
-* VanillaJS
+* Vanilla JS
 * WebPack
 
-### [Go Back](https://github.com/Grinzzly/JavaScript-games)
-
+### [More JS Games](https://github.com/Grinzzly/JavaScript-games)
