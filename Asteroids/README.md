@@ -14,4 +14,4 @@ open http://localhost:3000
 * ReactJS
 * ExpressJS
 
-### [Go Back](../)
+### [More JS Games](https://github.com/Grinzzly/JavaScript-games)
