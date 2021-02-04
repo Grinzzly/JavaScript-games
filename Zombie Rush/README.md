@@ -8,7 +8,6 @@ Run, eat brains, don't die.
 ```
 npm i
 npm run watch
-open index.html
 ```
 
 ## Technologies:
