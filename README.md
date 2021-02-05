@@ -20,9 +20,7 @@
 
 I know that JS is not about games and far away from game development in general. But,
 as far as I am concerned, every time you build a to-do list app, a puppy dies. That is
-the main reason why I have decided to start writing games on JS and using frameworks of JS itself
-and gave games as an alternate assignment within the confines of courses where I
-am appear as a teacher.
+the main reason why I have decided to start writing games on JS in order to learn something new about never-ending features of JS frameworks.
 
 # This repo includes:
 
@@ -35,7 +33,7 @@ am appear as a teacher.
 
 * [Asteroids](./Asteroids)
 
-## Angular JS Games
+## Angular Games
 
 * Coming soon
 
